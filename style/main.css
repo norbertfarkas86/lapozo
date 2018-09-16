@@ -13,7 +13,7 @@ body {
 
 h1 {
 	
-	color: #004a77;
+	color: #fff;
 	text-transform: uppercase;
 	font-weight: 900;
 	font-size: 3rem;
@@ -62,7 +62,7 @@ h1 {
 	margin: auto;
 	justify-content: center;
 	align-items: center;
-	font-size: 1.3rem;
+	font-size: 1.6rem;
 	font-weight: 700;
 	color: #004a77;
 }
@@ -75,7 +75,7 @@ a {
 }
 
 .option {
-    padding-top: 12px;
+    padding-top: 10px;
 	text-align: center;
 	width: 230px;
 	height: 50px;

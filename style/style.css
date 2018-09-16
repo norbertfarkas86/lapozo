@@ -43,9 +43,38 @@
     width: 100vw;
     height: 100vh;
     background-color: #0288d1;
-    
+
+   
+    } 
+
+.container-main {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    } 
+
+
+.logo {
+    position: relative;
+    top: 100px;
     
 }
+
+header {
+    width:100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+  .bluebg {
+      padding: 2rem;
+      width: 100%;
+      background-color: #0288d1;
+      height: 90vh;
+      clip-path: polygon(0% 100%, 0% 0%, 100% 0%, 100% 90%);
+      text-align: center;
+}
+
 .slate__container {
     padding-top: 100px;
     width: 100%;
