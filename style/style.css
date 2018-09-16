@@ -74,7 +74,7 @@
     margin: 15px;
     height: 120px;
     width: 100px;
-    background-color: #fff; !important
+    background-color: #fff !important;
     border: 3px, solid, transparent;
     border-radius: 2px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
